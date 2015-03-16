@@ -1,0 +1,28 @@
+{
+  "name": "node-videobuster",
+  "version": "1.1.1",
+  "author": "Alexander Zschach <alex@zschach.net>",
+  "description": "Super-simple NodeJS module for fetching your watchlist(s) from Videobuster.",
+  "keywords": [
+    "video",
+    "media",
+    "web",
+    "scrapper"
+  ],
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johndoe75/node-videobuster.git"
+  },
+  "dependencies": {
+    "lodash": "^3.5.0",
+    "cheerio": "^0.18.0",
+    "node-libcurl": "^0.3.0",
+    "querystring": "^0.2.0",
+    "iconv": "^2.1.6"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
