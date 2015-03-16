@@ -4,10 +4,10 @@ Simple NodeJS module for fetching your active and upcoming wanted-list from Germ
 
 ## Usage
 
-Installation
+[Installation](https://www.npmjs.com/package/node-videobuster)
 
 ```bash
-npm install git+https://github.com/johndoe75/node-videobuster.git
+npm i node-videobuster
 ```
 
 Fetch wanted items:
