@@ -9,7 +9,7 @@
     "web",
     "scrapper"
   ],
-  "private": true,
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/johndoe75/node-videobuster.git"
@@ -24,5 +24,17 @@
   "license": "MIT",
   "engines": {
     "node": ">=0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/johndoe75/node-videobuster/issues"
+  },
+  "homepage": "https://github.com/johndoe75/node-videobuster",
+  "main": "videobuster.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
