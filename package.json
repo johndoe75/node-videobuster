@@ -15,7 +15,7 @@
     "url": "https://github.com/johndoe75/node-videobuster.git"
   },
   "dependencies": {
-    "lodash": "^3.5.0",
+    "lodash": "^4.17.15",
     "cheerio": "^0.18.0",
     "node-libcurl": "^0.3.0",
     "querystring": "^0.2.0",
